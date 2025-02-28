@@ -80,6 +80,7 @@
 
 .card__title {
   padding: 5px 10px;
+  font-variation-settings: wght(var(--font-variation-weight-bold));
 }
 
 .image__container {
