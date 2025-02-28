@@ -15,7 +15,7 @@
 .page {
   min-inline-size: 320px;
   min-block-size: 100dvb;
-  font-variation-settings: var(--font-variation-weight-normal);
+  font-variation-settings: wght(var(--font-variation-weight-normal));
   display: flex;
   flex-direction: column;
   align-items: center;
