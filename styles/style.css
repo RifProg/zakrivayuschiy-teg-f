@@ -137,6 +137,7 @@
 .card__text {
   display: flex;
   flex-direction: column;
+  font-variation-settings: wght(var(--font-variation-weight-normal));
   gap: 27px;
   padding: 25px;
   font-size: 18px;
