@@ -420,7 +420,7 @@
   }
   
   .main {
-    gap:45px;
+    gap:49px;
   }
   
   .text__img {
@@ -437,12 +437,6 @@
     inline-size: 28px;
   }
 
-  .image__container {
-    max-block-size: 375px;
-  }
 
-  .card__img {
-    max-block-size: 375px;
-  }
 }
 
